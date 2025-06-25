@@ -6,10 +6,8 @@ Um aplicativo de tarefas (Todo App) moderno e intuitivo, com suporte a **arrasta
 
 ## 🚀 Funcionalidades
 
-- ✅ Criar, editar e remover tarefas
-- 🗂️ Organização por colunas (Ex: A Fazer, Em Progresso, Concluído)
-- 🖱️ Arrastar e soltar tarefas para reordenar ou mover entre colunas
-- 💾 Armazenamento local com `localStorage` (ou outro backend se aplicável)
+- ✅ Criar e remover tarefas
+- 🖱️ Arrastar e soltar tarefas para reordenar 
 - 🎨 UI moderna e responsiva com React
 
 ## 🛠️ Tecnologias Utilizadas
@@ -22,7 +20,7 @@ Um aplicativo de tarefas (Todo App) moderno e intuitivo, com suporte a **arrasta
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/todo-dnd-app.git
+git clone https://github.com/Juliano-Gomes/to-do-dnd.git
 
 # Acesse o diretório
 cd todo-dnd-app
@@ -31,5 +29,5 @@ cd todo-dnd-app
 npm install
 
 # Inicie o servidor de desenvolvimento
-npm start
+npm Todo
 
