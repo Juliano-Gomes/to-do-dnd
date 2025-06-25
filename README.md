@@ -14,7 +14,7 @@ Um aplicativo de tarefas (Todo App) moderno e intuitivo, com suporte a **arrasta
 
 - **React** — Biblioteca principal da interface
 - **@hello-pangea/dnd** — Fork de `react-beautiful-dnd` para funcionalidades de drag and drop
-- **CSS / Tailwind CSS / Styled Components** — Estilização (especifique se usou uma delas)
+- **CSS / Tailwind CSS** — Estilização (especifique se usou uma delas)
 
 ## 📦 Instalação e Execução
 
