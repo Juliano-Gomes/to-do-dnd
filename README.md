@@ -2,7 +2,7 @@
 
 Um aplicativo de tarefas (Todo App) moderno e intuitivo, com suporte a **arrastar e soltar (Drag and Drop)** utilizando a biblioteca [`@hello-pangea/dnd`](https://github.com/hello-pangea/dnd).
 
-![Preview](./screenshot.png) <!-- Imagem opcional -->
+![Preview](./screenshot2.mp4) <!-- Imagem opcional -->
 
 ## 🚀 Funcionalidades
 
